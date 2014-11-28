@@ -1,0 +1,3 @@
+2014-11-27 15:35:30,630 INFO [main] c.m.l.MyApp1 [MyApp1.java:11] Entering application.
+2014-11-27 15:35:30,636 DEBUG [main] c.m.l.Foo [Foo.java:10] Did it again!
+2014-11-27 15:35:30,636 INFO [main] c.m.l.MyApp1 [MyApp1.java:15] Exiting application.
